@@ -12,7 +12,7 @@ for (let i=1; i<num.length; i++){
 }
 console.log(res);
 
-res = res*res*res;
+res = res**3;
 console.log(res);
 
 
